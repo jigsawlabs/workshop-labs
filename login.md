@@ -1,0 +1,1 @@
+[login](http://learn.jigsawlabs.co/account/finish_auth?course_id=course-v1:masters+5+2019&enrollment_action=enroll&email_opt_in=false)

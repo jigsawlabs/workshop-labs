@@ -1,0 +1,8 @@
+Ideas for activities
+
+
+1. Do a wikipedia search for APIs, API mashups, what are some APIs that you may like to mash ups, 
+are there any questions in your job or day to day that you could answer with APIs
+
+1. See think wonder with a web url - turn the searching on ESPN and comparison to the web API into see-think-wonder
+2. Show the list of APIs, and a list of companies - if we wanted to recreate that company, which APIs could we use.
